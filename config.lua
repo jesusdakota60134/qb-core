@@ -18,7 +18,7 @@ QBConfig.Player.Bloodtypes = {
     'A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-',
 }
 
-QBConfig.Server = {}                                    -- General server config
+QBConfig.Server = {Indiana State Roleplay Fivem}                                    -- General server config
 QBConfig.Server.Closed = false                          -- Set server closed (no one can join except people with ace permission 'qbadmin.join')
 QBConfig.Server.ClosedReason = 'Server Closed'          -- Reason message to display when people can't join the server
 QBConfig.Server.Uptime = 0                              -- Time the server has been up.
